@@ -2,11 +2,8 @@
 
 ## 一些链接
 
-粉红妹MC服务器(原版1.20 插件服)
-s105.singsi.cn:57012
 
-
-- [粉红科技登录](https://pinkki.top/)
+- [粉红科技](https://pinkki.top/)
 - [Bilibili](https://space.bilibili.com/1860366)
 - [12年之前做的一些动画 Newgrounds Animations](https://liuzirui1122.newgrounds.com/)
 - [Youtube](https://www.youtube.com/@vitechliu5809)
